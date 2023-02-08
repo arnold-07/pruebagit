@@ -1,0 +1,1 @@
+hola este es una practica de git, probando todos los comandos de git 
